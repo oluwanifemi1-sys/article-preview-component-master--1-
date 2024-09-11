@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  justify-content: space-around;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: burlywood;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 120px;
+  padding-right: 120px;
+}
+
+.drawers {
+  width: 250px;
+}
+
+.container {
+  background-color: white;
+  padding: 10px;
+  margin: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin: 10px;
+  justify-content: space-around;
+  text-align: start;
+  display: flex;
+  gap: 10px;
+}
+
+.Michelle {
+  border-radius: 50%;
+  width: 70px;
+  display: flex;
+}
+
+.button {
+  border-radius: 50px;
+  color: rgb(52, 49, 49);
+  width: 15px;
+}
